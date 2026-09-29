@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "ANGEL LIKE DEVIL",
+  "short_name": "ALD",
+  "lang": "ja",
+  "description": "天使と悪魔の正体を読む、白黒のボードゲーム。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e4e3dc",
+  "theme_color": "#e4e3dc",
+  "icons": [
+    {
+      "src": "./icon-192.png?v=20260929-4",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png?v=20260929-4",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable-512.png?v=20260929-4",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
